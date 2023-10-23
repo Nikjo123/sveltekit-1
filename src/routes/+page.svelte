@@ -18,11 +18,11 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app
+		MALAY SHIKAR PADLEE<br />BHAI EVENT 
 	</h1>
 
 	<h2>
-		try editing <strong>src/routes/+page.svelte</strong>
+		try STYUDING EVERYDAY <strong>MALAY SHIKAR WE LOVE YOU</strong>
 	</h2>
 
 	<Counter />

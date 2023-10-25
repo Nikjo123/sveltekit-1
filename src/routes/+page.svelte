@@ -18,11 +18,11 @@
 			</picture>
 		</span>
 
-		MALAY SHIKAR PADLEE<br />BHAI EVENT 
+		ANIRUDH SRINIVAS(ASB) PADLEE<br />BHAI EVENT 
 	</h1>
 
 	<h2>
-		try STYUDING EVERYDAY <strong>MALAY SHIKAR WE LOVE YOU</strong>
+		try STYUDING EVERYDAY <strong>ANIRUDH SRNIVAS WE LOVE YOU</strong>
 	</h2>
 
 	<Counter />
